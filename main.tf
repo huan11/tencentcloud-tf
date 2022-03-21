@@ -1,4 +1,4 @@
 resource "tencentcloud_security_group" "sglab" {
-  name        = "tecentcloud-demo"
+  name        = "tencentcloud-demo"
   description = "favourite sg"
 }
